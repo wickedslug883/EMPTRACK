@@ -17,7 +17,7 @@ With User input, have the option to utilize al the various options within the te
 
 ## Installation
 
-Install Inquirer, DotENV, Console Table, MySql2  & Express, then run specified commands (npm install, npm run start)  within terminal.
+Dependencies: Inquirer, DotENV, Console Table, MySql2  & Express ||  run specified commands (npm install, npm run start)  within terminal.
 https://www.npmjs.com/package/inquirer
 ## Usage
 
@@ -25,7 +25,7 @@ This google drive link is for the tutorial!
 
 https://drive.google.com/file/d/12TfKjkgqbzDz6-_DGRGtasxby86FWnNS/view?usp=sharing
 
- <img src="https://raw.githubusercontent.com/wickedslug883/TeamProfileGen/main/images/Screenshot_100.png"/>
+ <img src="https://github.com/wickedslug883/EMPTRACK/blob/main/Screenshot_107.png?raw=true"/>
   
 
 
