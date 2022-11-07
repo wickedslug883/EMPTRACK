@@ -1,9 +1,9 @@
 ## Employee Tracker (MySql)
 
 
-Using various dependicies such as , mysql. dotenv, express. inquirer, console table, we are able to create an Eomployee Tracker Database customizable with user input.
-This is for learning purposes and learning how to utilize various dependices, understanding how to create everything as a whole.
-With User input, have the option to utilize al the various options within the termnial command line..
+Using various dependencies such as , mysql. dotenv, express. inquirer, console table, we are able to create an Employee Tracker Database customizable with user input.
+This is for learning purposes and learning how to utilize various dependencies, understanding how to create everything as a whole.
+With User input,  have the option to utilize all the various options within the termnial command line..
 
 
 ## Table of Contents 
@@ -17,7 +17,7 @@ With User input, have the option to utilize al the various options within the te
 
 ## Installation
 
-Dependencies: Inquirer, DotENV, Console Table, MySql2  & Express ||  run specified commands (npm install, npm run start)  within terminal.
+Install Inquirer, DotENV, Console Table, MySql2  & Express, then run specified commands (npm install, npm run start)  within terminal.
 https://www.npmjs.com/package/inquirer
 ## Usage
 
@@ -25,7 +25,7 @@ This google drive link is for the tutorial!
 
 https://drive.google.com/file/d/12TfKjkgqbzDz6-_DGRGtasxby86FWnNS/view?usp=sharing
 
- <img src="https://github.com/wickedslug883/EMPTRACK/blob/main/Screenshot_107.png?raw=true"/>
+ <img src="https://raw.githubusercontent.com/wickedslug883/TeamProfileGen/main/images/Screenshot_100.png"/>
   
 
 
@@ -39,7 +39,7 @@ https://drive.google.com/file/d/12TfKjkgqbzDz6-_DGRGtasxby86FWnNS/view?usp=shari
  
  MySQL2
  
- Express
+ Exoress
  
 
 ## License
@@ -57,5 +57,5 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Exoress](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+[![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
