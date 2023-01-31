@@ -23,7 +23,7 @@ https://www.npmjs.com/package/inquirer
 
 This google drive link is for the tutorial!
 
-https://drive.google.com/file/d/12TfKjkgqbzDz6-_DGRGtasxby86FWnNS/view?usp=sharing
+https://drive.google.com/file/d/120QSWbF58yX4orq_IXKP6yCkaW09n-HB/view?usp=sharing
 
  <img src="https://raw.githubusercontent.com/wickedslug883/TeamProfileGen/main/images/Screenshot_100.png"/>
   
